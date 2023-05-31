@@ -17,5 +17,3 @@ I possess proficiency in multiple technology stacks utilized in full stack web d
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jafin01&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
