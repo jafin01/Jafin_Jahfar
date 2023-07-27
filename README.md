@@ -1,5 +1,5 @@
 # 💫 About Me:
-I possess proficiency in multiple technology stacks utilized in full stack web development. Being self-taught, I have cultivated a versatile skill set that enables me to create robust and efficient web applications. I remain dedicated to continual learning and professional growth, ensuring that I am always up-to-date with the latest tools and techniques to deliver cutting-edge solutions. My passion for coding and problem-solving drives me to approach each project with creativity, efficiency, and meticulous attention to detail.<br>
+I possess proficiency in multiple technology stacks utilized in full stack web development. Being self-taught, I have cultivated a versatile skill set that enables me to create robust and efficient web applications. I remain dedicated to continual learning and professional growth, ensuring that I am always up-to-date with the latest tools and techniques to deliver cutting-edge solutions. My passion for coding and problem-solving drives me to approach each project with creativity, efficiency, and meticulous attention to detail<br>
 
 
 ## 🌐 Socials:
