@@ -12,6 +12,16 @@ I possess proficiency in multiple technology stacks utilized in full stack web d
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jafin01&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jafin01&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+--------------------
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kusumachandu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kusumachandu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=kusumachandu&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+--------------------
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jafin01&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
