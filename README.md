@@ -15,8 +15,6 @@ I possess proficiency in multiple technology stacks utilized in full stack web d
 --------------------
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=jafin01&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jafin01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
