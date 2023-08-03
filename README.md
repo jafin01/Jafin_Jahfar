@@ -15,7 +15,7 @@ I possess proficiency in multiple technology stacks utilized in full stack web d
 --------------------
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jafin01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=false&order=2&private=true&private=true" height="300" width="500" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jafin01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=false&order=2&private=true&private=true" height="250" width="450" alt="languages graph"  />
 </div>
 
 --------------------
