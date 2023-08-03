@@ -10,13 +10,14 @@ I possess proficiency in multiple technology stacks utilized in full stack web d
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jafin01&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jafin01&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jafin01&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
---------------------
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jafin01&locale=en&hide_title=false&layout=compact&langs_count=9&cardwidth=320&theme=midnight-purple&hide_border=false&order=2&private=true&private=true" height="250" alt="languages graph"  />
 </div>
+
+# ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jafin01&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+--------------------
 
 --------------------
 
