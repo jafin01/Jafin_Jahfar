@@ -10,12 +10,12 @@ I possess proficiency in multiple technology stacks utilized in full stack web d
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jafin01&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jafin01&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jafin01&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jafin01&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 --------------------
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jafin01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="150" width="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jafin01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=midnight-purple&hide_border=false&order=2&private=true" height="150" width="500" alt="languages graph"  />
 </div>
 
 --------------------
